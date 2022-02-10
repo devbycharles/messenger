@@ -4,7 +4,7 @@
 
 ## Project
 
-- IUtilized a React library and Firebase to engineer a messenger where users can speak with each other. Users can join the site where they can create their own chatrooms and invite whom ever they want.
+- Utilized a React library and Firebase to engineer a messenger where users can speak with each other. Users can join the site where they can create their own chatrooms and invite whom ever they want.
 
 ### Built with
 
